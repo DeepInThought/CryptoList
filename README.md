@@ -3,18 +3,11 @@ Curated collection of blockchain &amp; cryptocurrency links.
 
 [<img src="https://github.com/coinpride/CryptoList/blob/master/cryptolist_logo.png?raw=true" width="500">](https://github.com/coinpride/CryptoList)
 
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/forum.svg?sanitize=true">](https://cryptoheresy.com)
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/twitter_follow.svg?sanitize=true">](https://twitter.com/coinpridecom)
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/twitter_share.svg?sanitize=true">](https://twitter.com/home?status=The%20Grand%20List%20of%20cryptocurrency%20links%20%0A%F0%9F%91%91%0A%0Ahttps%3A//github.com/coinpride/CryptoList)
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/facebook_like.svg?sanitize=true">](https://www.facebook.com/coinpride/)
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/facebook_send.svg?sanitize=true">](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/coinpride/CryptoList)
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/newsletter.svg?sanitize=true">](https://club.coinpride.com/)
-[<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/social_icons/telegram_join.svg?sanitize=true">](https://t.me/join_cht)
+# Sponsors and Backers
+CryptoList is maintained by enthusiasts.
+Support the project by making an [Open Collective](https://opencollective.com/cryptolist) donation.
 
-# Grand Sponsor
-CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketplace of cryptocurrency domains, websites and social profiles. Buy and sell rare items for free.
-
-[<img src="https://github.com/coinpride/CryptoList/blob/master/sponsors/opencrypto.png?raw=true" width="450">](https://opencrypto.space/)
+[<img src="https://github.com/coinpride/CryptoList/blob/master/sponsors/opencollective2.png?raw=true" width="416">](https://opencollective.com/cryptolist)
 
 # Contents
 - [Media](#media)
@@ -41,6 +34,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
   - [Books](#books)
   - [Courses](#courses)
   - [Other](#other)
+- [Trading Tools](#trading-tools)
 - [For Developers](#for-developers)
   - [API](#api)
   - [Other](#other)
@@ -110,6 +104,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
 * [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
 * [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
+* [AmuletPlatform](https://amuletplatform.com/data/coin/1211) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
 
 # Price Trackers
 * [Altcoins Racing](https://altcoins.racing/) - Altcoins Racing shows the price change winners and losers.
@@ -146,6 +141,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
 * [ICO Whitelists](http://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
 * [ICOAlarm](http://icoalarmapp.com) - ICO discovery, analysis, and alerts crossplatform mobile application.
+* [ICO Toplist](https://icotoplist.com) - List, review and rate all ICOs: Past, Active and Upcoming ones.
 # Exchanges
 * [Local Bitcoins](https://localbitcoins.com/) - Buy and sell bitcoins near you. Trusted by 10M monthly users.
 * [Poloniex](https://www.poloniex.com/) - USA. Trust: 3.5/5. Tons of altcoins. Poor support.
@@ -183,6 +179,7 @@ CryptoList is supported by [OpenCrypto](https://opencrypto.space/) - the marketp
 * [BitcoinGarden](https://bitcoingarden.org) - This young forum has appeared in Jan 2017.
 * [CryptoCurrencyTalk](https://cryptocurrencytalk.com/) - Born in 2013, very active forum. Modern engine.
 * [Token Daily](https://www.tokendaily.co) - Crypto news, launches, white papers and Q&A with experts 📈
+* [Stadivm](https://stadivm.com/) - Newborn cryptocurrency forum with a potential.
 
 ## Other
 * [Cryptocompare](https://www.cryptocompare.com) - CryptoCompare is interactive platform where you can discuss the latest crypto trends and monitor all markets streaming in real time. Also includes perfect altfoilio app.
@@ -313,6 +310,9 @@ invest in cryptocurrency.
 * [Bitcoin Forks](http://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
 * [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
 * [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
+* [Whitepaper.io](https://whitepaper.io) - All whitepapers in one place.
+# Trading Tools
+* [Quadency](https://quadency.com) - Crypto trading and real-time portfolio analytics.
 # For Developers
 ## API
 * [Shapeshift](https://info.shapeshift.io/api) - Embed exchange in your app. Trusted by hundreds of apps.
@@ -364,6 +364,10 @@ invest in cryptocurrency.
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/coinpride.svg?sanitize=true">](https://coinpride.com)
 
 [<img src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/findbitcoinatm_sponsor_logo.png?sanitize=true">](https://www.findbitcoinatm.com.au/)
+
+[<img height="70" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/crypto_weekly_list.png">](https://cryptoweekly.co/list/?ref=coinpride)
+
+[<img width="240" src="https://raw.githubusercontent.com/coinpride/CryptoList/master/sponsors/quadency.jpg">](https://quadency.com/?utm_source=GitHubCL&utm_medium=Sponsorship&utm_campaign=CryptoList)
 
 # Contribute
 Found a nice link? Noticed a bug? Feel free to contribute! You are so much welcome! But read the [CONTRIBUTING.md](https://github.com/coinpride/CryptoList/blob/master/CONTRIBUTING.md) first.
